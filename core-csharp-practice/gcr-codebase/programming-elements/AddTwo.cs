@@ -1,5 +1,5 @@
-public class AddTwo
-{
+
+class AddTwo{
 	public static void Main(string[] args)
 	{
 		int a = 10;
