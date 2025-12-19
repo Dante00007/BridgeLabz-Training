@@ -1,4 +1,4 @@
-Day 02<br>
+<h3><b>Day 02</b></h3><br>
 Date: 19/12/2025
 Topics: Architecture, Access Modifiers,C# Operators,C# Datatypes, Entry Point Of C#/.net, Features of C#
 
