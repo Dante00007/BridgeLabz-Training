@@ -1,5 +1,5 @@
 <h3><b>Day 02</b></h3><br>
-Date: 19/12/2025
+Date: 19/12/2025<br>
 Topics: Architecture, Access Modifiers,C# Operators,C# Datatypes, Entry Point Of C#/.net, Features of C#
 
 What I Learned<br>
