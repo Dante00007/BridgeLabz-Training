@@ -1,8 +1,28 @@
-<h3><b>Day 02</b></h3><br>
+<h2><b>Day 01</b></h2>
+Date: 18/12/2025<br>
+Topics: Basic Introduction to C#, Visual Studio Community Edition Installation, Github Setup, Git Commands<br>
+<br>
+<h3>What I Learned</h3><br>
+
+Basic Introduction to C#<br>
+Visual Studio Community Edition Installation: Setup C#/.net in Visual Studio for Project Development in Future<br>
+Github Setup: Git configure with VS Code and Github<br>
+Git Commands: git init, git add, git commit, git push<br>
+
+<h3>Task for the Day:</h3><br>
+Do 10 Coding Questions and push onto github.<br>
+
+<h3>What's Next</h3><br>
+Architecture, Access Modifiers,Features of C#.<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 02</b></h3><br>
 Date: 19/12/2025<br>
 Topics: Architecture, Access Modifiers,C# Operators,C# Datatypes, Entry Point Of C#/.net, Features of C#<br>
-<hr>
-What I Learned<br>
+<br>
+<h3>What I Learned</h3><br>
 
 Architecture: .net uses two compilers Msil and CLR. How It Integrates with other languages.<br>
 Access Modifiers: public,private,protected,internal.<br>
