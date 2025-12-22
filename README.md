@@ -36,3 +36,45 @@ polymorphism, encapsulation etc.<br>
 
 <h3>What's Next</h3>
 C# Programming Elements Level-01. lab assignment will be solved.<br>
+
+
+<hr>
+<hr>
+
+<h2><b>Day 03</b></h3><br>
+Date: 20/12/2025<br>
+Topics: C# Programming Elements Level-01 and Level-02 Lab Assignment.<br>
+
+<h3>What I Learned</h3>
+Solved basic C# Programming Elements Level-01 and Level-02 Lab Assignment.<br>
+Learned how to use variables, constants, data types, operators, control structures, functions,<br>
+and object-oriented concepts such as classes, objects, inheritance, polymorphism,<br>
+encapsulation and abstraction.<br>
+
+<h3>Task for the Day:</h3>
+Update everything on Github after solving the lab assignments.<br>
+
+<h3>What's Next</h3>
+Control Flow Statements, Loops.<br>
+
+
+<hr>
+<hr>
+
+<h2><b>Day 04</b></h3><br>
+Date: 22/12/2025<br>
+Topics: Control Flow Statements, Loops.<br>
+
+<h3>What I Learned</h3>
+Learned about Control Flow Statements and Loops.<br>
+Learned about the if, if-else, switch, while, do-while, for, foreach loops.<br>
+Learned about break, continue, goto statements.<br>
+Learned about nested loops.<br>
+
+<h3>Task for the Day:</h3>
+Solve the control flow statements and loops lab assignment level-01,level-02 and level-03.<br>
+Solve 2 leetcode problems.<br>
+
+<h3>What's Next</h3>
+Setup Project in Visual Studio.<br>
+
