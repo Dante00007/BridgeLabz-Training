@@ -78,3 +78,23 @@ Solve 2 leetcode problems.<br>
 <h3>What's Next</h3>
 Setup Project in Visual Studio.<br>
 
+<hr>
+<hr>
+
+<h2><b>Day 05</b></h3><br>
+Date: 23/12/2025<br>
+Topics: Arrays<br>
+
+<h3>What I Learned</h3>
+Learned About Arrays.<br>
+Learned About Array Declaration, Initialization, Accessing Array Elements, Multidimensional Arrays,<br>
+Array Length Property, Array Copy Method, Array Sort Method, Array Reverse Method, Array Resize Method.<br>
+
+<h3>Task for the Day:</h3>
+Solve the Arrays lab assignment level-01,level-02<br>
+Solve 2 leetcode problems.<br>
+
+<h3>What's Next</h3>
+Methods in C#.<br>
+
+
