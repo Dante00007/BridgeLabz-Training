@@ -8,7 +8,51 @@ d.                Write a Method to Calculate the sum of the Old Salary, the Sum
 */
 
 class Zara{
-  static void Main(){
+  public static int[,] SalaryAndYearsOfService(int noOfEmployees){
+    int[,] arr = new int[noOfEmployees,2];
 
+    for (int i = 0; i < noOfEmployees; i++){
+                
+      arr[i, 0] = Math.random.Next(10000, 100000); 
+      arr[i, 1] = Math.random.Next(0, 11);        
+    }
+    
+    return arr;
+  }
+  public static int[,] CalculateNewSalaryAndBonus(int[,] data){
+    int employees = data.GetLength(0);
+    double[,] newSalaryAndBonus = new double[employees, 2];
+
+    for (int i = 0; i < rows; i++)
+    {
+        double currentSalary = data[i, 0];
+        double yearsOfService = data[i, 1];
+        double bonusPercentage = (yearsOfService > 5) ? 0.05 : 0.02;
+
+        double bonusAmount = currentSalary * bonusPercentage;
+        newSalaryAndBonus[i, 0] = currentSalary + bonusAmount;
+        newSalaryAndBonus[i, 1] = bonusAmount;                 
+    }
+    return newSalaryAndBonus;
+  }
+  static void Main(){
+    Console.Write("Enter number of employees ");
+    int noOfEmployees = Convert.ToInt32(Console.ReadLine());
+    int[,] salaryAndYearsOfService = SalaryAndYearsOfService(noOfEmployees);
+    int[,] newSalaryAndBonus = CalculateNewSalaryAndBonus(data);
+
+    double totalOldSalary = 0, totalNewSalary = 0, totalBonus = 0;
+
+    for (int i = 0; i < rows; i++)
+    {
+        totalOldSalary += salaryAndYearsOfService[i, 0];
+        totalNewSalary += newSalaryAndBonus[i, 0];
+        totalBonus += newSalaryAndBonus[i, 1];
+    }
+
+    Console.WriteLine("Total Old Salary: " + totalOldSalary);
+    Console.WriteLine("Total New Salary: " + totalNewSalary);
+    Console.WriteLine("Total Bonus: " + totalBonus);
+  
   }
 }
