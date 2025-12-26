@@ -97,4 +97,33 @@ Solve 2 leetcode problems.<br>
 <h3>What's Next</h3>
 Methods in C#.<br>
 
+Day 06: 24/12/2025<br>
+Topics: Methods in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Methods in C#.<br>
+Learned About Method Declaration, Method Invocation, Method Parameters, Method Return Type,Method Overloading,<br>
+Method Scope, Method Accessibility, Method Attributes, Method Overriding.<br>
+
+<h3>Task for the Day:</h3>
+Solve the Methods in C# lab assignment level-01,level-02,level-03<br>
+Solve 2 leetcode problems.Leetcode 1793,2375<br>
+
+<h3>What's Next</h3>
+C# Strings and its built-in methods<br>
+
+Day 07: 26/12/2025<br>
+Topics: C# Strings and its built-in methods<br>
+
+<h3>What I Learned</h3>
+Learned About C# Strings and its built-in methods.<br>
+Learned About String Declaration, String Initialization, String Concatenation, String Comparison,<br>
+String Formatting, StringBuilder Class, Regular Expressions.<br>
+
+<h3>Task for the Day:</h3>
+Solve the C# Strings and its built-in methods lab assignment level-01<br>
+Solve 3 leetcode problems. Leetcode 503,221,239<br>
+
+<h3>What's Next</h3>
+C# Exceptions in C#<br>
 
