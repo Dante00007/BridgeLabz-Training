@@ -125,5 +125,37 @@ Solve the C# Strings and its built-in methods lab assignment level-01<br>
 Solve 3 leetcode problems. Leetcode 503,221,239<br>
 
 <h3>What's Next</h3>
-C# Exceptions in C#<br>
+C# String Handling and Exceptions in C#<br>
+
+Day 08: 27/12/2025<br>
+Topics: C# String Handling and Exceptions in C#<br>
+
+<h3>What I Learned</h3>
+Learned About C# String Handling and Exceptions in C#.<br>
+Learned About String Handling Techniques, Exception Handling Mechanism,<br>
+Exception Types, Try-Catch-Finally Block, Custom Exceptions.<br>
+
+<h3>Task for the Day:</h3>
+Solve the C# String Handling and Exceptions in C# lab assignment level-01<br>
+Solve 2 leetcode problems. Leetcode 1,2<br>
+
+<h3>What's Next</h3>
+C# More String Handling And DateTime in C#<br>
+
+Day 09: 28/12/2025<br>
+Topics: C# More String Questions, DateTime And built in methods in C#<br>
+
+<h3>What I Learned</h3>
+Learned About C# More String Handling And DateTime in C#.<br>
+Learned About String Manipulation Functions, Date and Time Classes,<br>
+TimeSpan Class, DateTime Format Specifiers.<br>
+BuiltIn Methods in C#<br>
+
+<h3>Task for the Day:</h3>
+Solve the C# Builtin methods And DateTime in C# lab assignment level-01<br>
+Solve 2 leetcode problems. Leetcode 918,974<br>
+
+<h3>What's Next</h3>
+C# File Handling In C#<br>
+
 
