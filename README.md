@@ -158,4 +158,46 @@ Solve 2 leetcode problems. Leetcode 918,974<br>
 <h3>What's Next</h3>
 C# File Handling In C#<br>
 
+Day 10: 29/12/2025<br>
+Topics: Scenario Based Question Snake and Ladder<br>
+
+<h3>Task for the Day:</h3>
+Solve the Scenario Based Question Snake and Ladder.<br>
+Solve 2 DSA problems. Aggressive cows, Karatsuba Multiplication<br>
+
+<h3>What's Next</h3>
+oops in c#<br>
+
+Day 11: 30/12/2025<br>
+Topics: oops in c#<br>
+
+<h3>What I Learned</h3>
+Learned About OOPS in C#.<br>
+Learned About Encapsulation, Abstraction, Polymorphism, Inheritance,<br>
+Interfaces, Abstract Classes, Sealed Classes.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question library management system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
+Constructors in C#<br>
+
+Day 12: 31/12/2025<br>
+Topics: Constructors in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Constructors in C#.<br>
+Learned About Constructor Basics, Parameterized Constructors,<br>
+Default Constructors, Static Constructors, Private Constructors,<br>
+Constructor Chaining.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question Bank Management system<br>
+Solve 2 DSA problems. Divide and conquer algorithm, Close points<br>
+
+<h3>What's Next</h3>
+Inheritance in C#<br>
+
+
 
