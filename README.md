@@ -197,7 +197,21 @@ Solved scenario based question Bank Management system<br>
 Solve 2 DSA problems. Divide and conquer algorithm, Close points<br>
 
 <h3>What's Next</h3>
-Inheritance in C#<br>
+static,sealed,this in C#<br>
 
+Day 13: 01/01/2026<br>
+Topics: static,sealed,this in C#<br>
 
+<h3>What I Learned</h3>
+Learned About static, sealed, this in C#.<br>
+Learned About Static Members, Sealed Classes, This Keyword,<br>
+Static Constructors, Static Methods.<br>
+Learned about Fenwick or Binary Index Tree.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question Cafeteria system<br>
+Solve codeforces problem. Moving Points 1311F<br>
+
+<h3>What's Next</h3>
+Object Modeling,class diagrams<br>
 
