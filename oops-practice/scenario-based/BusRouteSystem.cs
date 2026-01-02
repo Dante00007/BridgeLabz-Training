@@ -88,7 +88,7 @@ class BusRouteTracker
             return;
         }
 
-        Console.WriteLine("===Boarding====");
+        Console.WriteLine("       =====Boarding=====");
 
         // asking how many passengers are getting on at current stop.(assuming all will sit together)
         Console.Write("How many Passengers are getting on at stop {0}?:", currentStop);
@@ -119,7 +119,7 @@ class BusRouteTracker
         {
             return;
         }
-        Console.WriteLine("====Leaving the Bus====");
+        Console.WriteLine("       ====Leaving the Bus====");
         for (int i = 0; i < passenger.Length; i++)
         {
             if (passenger[i] == null)
@@ -159,7 +159,7 @@ class BusRouteTracker
         // Journey continues until the last stop
         while (currentStop < distanceBetweenStops.Length - 1)
         {
-            Console.WriteLine("\n--- STOP {0} ---", currentStop);
+            Console.WriteLine("\n------------------- STOP {0} -------------------", currentStop);
 
             // 1. Let people off first
             RemovePassenger(currentStop);
