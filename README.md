@@ -215,3 +215,91 @@ Solve codeforces problem. Moving Points 1311F<br>
 <h3>What's Next</h3>
 Object Modeling,class diagrams<br>
 
+Day 14: 02/01/2026<br>
+Topics: Object Modeling,class diagrams<br>
+
+<h3>What I Learned</h3>
+Learned About Object Modeling and class diagrams.<br>
+Learned About UML Diagrams, Class Diagrams, Object Diagrams,<br>
+Sequence Diagrams, Activity Diagrams.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question library management system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
+Inheritance in C#<br>
+
+Day 15: 03/01/2026<br>
+Topics: Inheritance in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Inheritance in C#.<br>
+Learned About Inheritance Basics, Multiple Inheritance,<br>
+Hierarchical Inheritance, Multilevel Inheritance, Hybrid Inheritance.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question bank management system<br>
+Solve 2 DSA problems. Find Median from Data Stream, Maximum Product Subarray<br>
+
+<h3>What's Next</h3>
+Polymorphism in C#<br>
+
+Day 16: 04/01/2026<br>
+Topics: Polymorphism in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Polymorphism in C#.<br>
+Learned About Polymorphism Basics, Method Overriding,<br>
+Method Overloading, Method Hiding, Virtual Keyword.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question cafeteria system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
+Abstraction in C#<br>
+
+Day 17: 05/01/2026<br>
+Topics: Abstraction in C#<br>   
+
+<h3>What I Learned</h3>
+Learned About Abstraction in C#.<br>
+Learned About Abstract Classes, Interfaces, Abstract Methods,<br>
+Abstract Properties, Abstract Events.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question library management system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
+Encapsulation in C#<br>
+
+Day 18: 06/01/2026<br>
+Topics: Encapsulation in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Encapsulation in C#.<br>
+Learned About Encapsulation Basics, Access Modifiers,<br>
+Properties.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question cafeteria system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
+Data structure in C#<br>
+
+Day 19: 07/01/2026<br>
+Topics: Data Structure in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Data Structure in C#.<br>
+Learned About Data Structure Basics, Array, Linked List, Stack,<br>
+Queue, Tree, Graph.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question library management system<br>
+Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
+
+<h3>What's Next</h3>
