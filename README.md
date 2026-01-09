@@ -303,3 +303,33 @@ Solved scenario based question library management system<br>
 Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 
 <h3>What's Next</h3>
+Stack,Queue,HashMap in C#<br>
+
+Day 20: 08/01/2026<br>
+Topics: Stack,Queue,HashMap in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Stack,Queue,HashMap in C#.<br>
+Learned About Stack,Queue,HashMap Basics, Stack Implementation,<br>
+Queue Implementation, HashMap Implementation.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question Smart Home Devices<br>
+Solve Queue,Stack,HashMap DSA problems and Lab Assignments<br>
+
+<h3>What's Next</h3>
+Sorting in C#<br>
+
+Day 21: 09/01/2026<br>
+Topics: Sorting in C#<br>
+
+<h3>What I Learned</h3>
+Learned About Sorting in C#.<br>
+Learned About Sorting Basics, Bubble Sort, Selection Sort,<br>
+Insertion Sort, Merge Sort, Quick Sort, Count Sort, Heap Sort.<br>
+
+<h3>Task for the Day:</h3>
+Solved scenario based question Fitness Tracker system, Atm dispenser<br>
+Solve Lab Assignments on sorting problems<br>
+
+
