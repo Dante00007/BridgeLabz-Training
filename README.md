@@ -333,3 +333,21 @@ Solved scenario based question Fitness Tracker system, Atm dispenser<br>
 Solve Lab Assignments on sorting problems<br>
 
 
+Day 22: 10/01/2026<br>
+Topics: Problem solving practice<br>
+
+<h3>What I Learned</h3>
+I did two leetcode problems<br>
+
+<h3>Task for the Day:</h3>
+Solve 2 DSA problems. <br>
+Median of Two Sorted Arrays, Partition Array into disjoint Intervals<br>
+
+Day 23: 11/01/2026<br>
+Topics: Problem solving practice<br>
+Solve 1 Leetcode problem.<br>
+Patching Array<br>
+
+
+Day 24: 12/01/2026<br>
+
