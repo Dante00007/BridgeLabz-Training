@@ -11,9 +11,8 @@ class CustomFurnitureManufacturing
 
         for (int i = 0; i < n; i++)
         {
-
             modifiedCuts[i + 1] = cuts[i];
-        }
+        } 
         Array.Sort(modifiedCuts);
         return modifiedCuts;
     }
