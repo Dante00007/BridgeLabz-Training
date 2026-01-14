@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\bin\Debug\net10.0\Cinema-time.exe
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\bin\Debug\net10.0\Cinema-time.deps.json
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\bin\Debug\net10.0\Cinema-time.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\bin\Debug\net10.0\Cinema-time.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\bin\Debug\net10.0\Cinema-time.pdb
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\refint\Cinema-time.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.pdb
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\Cinema-time.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\Cinema-time\Cinema-time\obj\Debug\net10.0\ref\Cinema-time.dll

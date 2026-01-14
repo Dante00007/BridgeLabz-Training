@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\net10.0\EmployeeWageComputation.exe
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\net10.0\EmployeeWageComputation.deps.json
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\net10.0\EmployeeWageComputation.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\net10.0\EmployeeWageComputation.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\net10.0\EmployeeWageComputation.pdb
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\refint\EmployeeWageComputation.dll
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.pdb
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\EmployeeWageComputation.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Scenario-based\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\net10.0\ref\EmployeeWageComputation.dll

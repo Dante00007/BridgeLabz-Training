@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Scenario-based\\BookBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934E71C3-38F4-4EEB-ABD8-F38C490E34BE}|BookBuddy\\BookBuddy.csproj|c:\\users\\hp\\onedrive\\desktop\\scenario-based\\bookbuddy\\bookbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934E71C3-38F4-4EEB-ABD8-F38C490E34BE}|BookBuddy\\BookBuddy.csproj|solutionrelative:bookbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Scenario-based\\BookBuddy\\BookBuddy\\Program.cs",
+              "RelativeDocumentMoniker": "BookBuddy\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Scenario-based\\BookBuddy\\BookBuddy\\Program.cs",
+              "RelativeToolTip": "BookBuddy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:05:01.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
