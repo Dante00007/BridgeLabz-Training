@@ -97,7 +97,11 @@ Solve 2 leetcode problems.<br>
 <h3>What's Next</h3>
 Methods in C#.<br>
 
-Day 06: 24/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 06</b></h3><br>
+Date: 24/12/2025<br>
 Topics: Methods in C#<br>
 
 <h3>What I Learned</h3>
@@ -112,7 +116,11 @@ Solve 2 leetcode problems.Leetcode 1793,2375<br>
 <h3>What's Next</h3>
 C# Strings and its built-in methods<br>
 
-Day 07: 26/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 07</b></h3><br>
+Date: 26/12/2025<br>
 Topics: C# Strings and its built-in methods<br>
 
 <h3>What I Learned</h3>
@@ -127,7 +135,11 @@ Solve 3 leetcode problems. Leetcode 503,221,239<br>
 <h3>What's Next</h3>
 C# String Handling and Exceptions in C#<br>
 
-Day 08: 27/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 08</b></h3><br>
+Date: 27/12/2025<br>
 Topics: C# String Handling and Exceptions in C#<br>
 
 <h3>What I Learned</h3>
@@ -142,7 +154,11 @@ Solve 2 leetcode problems. Leetcode 1,2<br>
 <h3>What's Next</h3>
 C# More String Handling And DateTime in C#<br>
 
-Day 09: 28/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 09</b></h3><br>
+Date: 28/12/2025<br>
 Topics: C# More String Questions, DateTime And built in methods in C#<br>
 
 <h3>What I Learned</h3>
@@ -158,7 +174,11 @@ Solve 2 leetcode problems. Leetcode 918,974<br>
 <h3>What's Next</h3>
 C# File Handling In C#<br>
 
-Day 10: 29/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 10</b></h3><br>
+Date: 29/12/2025<br>
 Topics: Scenario Based Question Snake and Ladder<br>
 
 <h3>Task for the Day:</h3>
@@ -168,7 +188,11 @@ Solve 2 DSA problems. Aggressive cows, Karatsuba Multiplication<br>
 <h3>What's Next</h3>
 oops in c#<br>
 
-Day 11: 30/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 11</b></h3><br>
+Date: 30/12/2025<br>
 Topics: oops in c#<br>
 
 <h3>What I Learned</h3>
@@ -183,7 +207,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Constructors in C#<br>
 
-Day 12: 31/12/2025<br>
+<hr>
+<hr>
+
+<h2><b>Day 12</b></h3><br>
+Date: 31/12/2025<br>
 Topics: Constructors in C#<br>
 
 <h3>What I Learned</h3>
@@ -199,7 +227,11 @@ Solve 2 DSA problems. Divide and conquer algorithm, Close points<br>
 <h3>What's Next</h3>
 static,sealed,this in C#<br>
 
-Day 13: 01/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 13</b></h3><br>
+Date: 01/01/2026<br>
 Topics: static,sealed,this in C#<br>
 
 <h3>What I Learned</h3>
@@ -215,7 +247,11 @@ Solve codeforces problem. Moving Points 1311F<br>
 <h3>What's Next</h3>
 Object Modeling,class diagrams<br>
 
-Day 14: 02/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 14</b></h3><br>
+Date: 02/01/2026<br>
 Topics: Object Modeling,class diagrams<br>
 
 <h3>What I Learned</h3>
@@ -230,7 +266,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Inheritance in C#<br>
 
-Day 15: 03/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 15</b></h3><br>
+Date: 03/01/2026<br>
 Topics: Inheritance in C#<br>
 
 <h3>What I Learned</h3>
@@ -245,7 +285,11 @@ Solve 2 DSA problems. Find Median from Data Stream, Maximum Product Subarray<br>
 <h3>What's Next</h3>
 Polymorphism in C#<br>
 
-Day 16: 04/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 16</b></h3><br>
+Date: 04/01/2026<br>
 Topics: Polymorphism in C#<br>
 
 <h3>What I Learned</h3>
@@ -260,7 +304,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Abstraction in C#<br>
 
-Day 17: 05/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 17</b></h3><br>
+Date: 05/01/2026<br>
 Topics: Abstraction in C#<br>   
 
 <h3>What I Learned</h3>
@@ -275,7 +323,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Encapsulation in C#<br>
 
-Day 18: 06/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 18</b></h3><br>
+Date: 06/01/2026<br>
 Topics: Encapsulation in C#<br>
 
 <h3>What I Learned</h3>
@@ -290,7 +342,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Data structure in C#<br>
 
-Day 19: 07/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 19</b></h3><br>
+Date: 07/01/2026<br>
 Topics: Data Structure in C#<br>
 
 <h3>What I Learned</h3>
@@ -305,7 +361,11 @@ Solve 2 DSA problems. Search in Rotated Sorted Array, Allocating Books<br>
 <h3>What's Next</h3>
 Stack,Queue,HashMap in C#<br>
 
-Day 20: 08/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 20</b></h3><br>
+Date: 08/01/2026<br>
 Topics: Stack,Queue,HashMap in C#<br>
 
 <h3>What I Learned</h3>
@@ -320,7 +380,11 @@ Solve Queue,Stack,HashMap DSA problems and Lab Assignments<br>
 <h3>What's Next</h3>
 Sorting in C#<br>
 
-Day 21: 09/01/2026<br>
+<hr>
+<hr>
+
+<h2><b>Day 21</b></h3><br>
+Date: 09/01/2026<br>
 Topics: Sorting in C#<br>
 
 <h3>What I Learned</h3>
@@ -332,6 +396,11 @@ Insertion Sort, Merge Sort, Quick Sort, Count Sort, Heap Sort.<br>
 Solved scenario based question Fitness Tracker system, Atm dispenser<br>
 Solve Lab Assignments on sorting problems<br>
 
+<h3>What's Next</h3>
+Problem Solving Practice<br>
+
+<hr>
+<hr>
 
 <h2><b>Day 22: 10/01/2026</b></h2><br>
 Topics: Problem solving practice<br>
@@ -343,14 +412,25 @@ I did two leetcode problems<br>
 Solve 2 DSA problems. <br>
 Median of Two Sorted Arrays, Partition Array into disjoint Intervals<br>
 
+<h3>What's Next</h3>
+Problem Solving Practice<br>
+
+<hr>
+<hr>
+
 <h2><b>Day 23: 11/01/2026</b></h2><br>
 Topics: Problem solving practice<br>
 
+<h3>Task for the Day</h3>
 Solve 1 Leetcode problem.<br>
 Patching Array<br>
 
+<hr>
+<hr>
 
-<h2><b>Day 24: 12/01/2026</b></h2><br>
+
+<h2><b>Day 24</b></h2><br>
+Date: 12/01/2026<br>
 Topics: Linear Search, Binary Search, StreamReader,FileReader, StreamWriter<br>
 
 <h3>What I Learned</h3>
@@ -361,7 +441,14 @@ StreamReader,FileReader, StreamWriter in C#.<br>
 Solve Assignment on searching problems<br>
 Solve Scenario-based Cost to cut wooden rod
 
-<h2><b>Day 25: 13/01/2026</b></h2><br>
+<h3>What's Next</h3>
+Time complexity and Space complexity<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 25 </b></h2><br>
+Date: 13/01/2026<br>
 Topics: Time complexity and Space complexity<br>
 
 <h3>What I Learned</h3>
@@ -371,5 +458,10 @@ Time complexity and Space complexity.<br>
 Solve Assignment on Time Complexity and Space Complexity problems<br>
 Solve Scenario-based BookBuddy, Cinema time <br>
 
+<h3>What's Next</h3>
+
+
+<hr>
+<hr>
 
 
