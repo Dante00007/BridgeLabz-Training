@@ -333,7 +333,7 @@ Solved scenario based question Fitness Tracker system, Atm dispenser<br>
 Solve Lab Assignments on sorting problems<br>
 
 
-Day 22: 10/01/2026<br>
+<h2><b>Day 22: 10/01/2026</b></h2><br>
 Topics: Problem solving practice<br>
 
 <h3>What I Learned</h3>
@@ -343,11 +343,33 @@ I did two leetcode problems<br>
 Solve 2 DSA problems. <br>
 Median of Two Sorted Arrays, Partition Array into disjoint Intervals<br>
 
-Day 23: 11/01/2026<br>
+<h2><b>Day 23: 11/01/2026</b></h2><br>
 Topics: Problem solving practice<br>
+
 Solve 1 Leetcode problem.<br>
 Patching Array<br>
 
 
-Day 24: 12/01/2026<br>
+<h2><b>Day 24: 12/01/2026</b></h2><br>
+Topics: Linear Search, Binary Search, StreamReader,FileReader, StreamWriter<br>
+
+<h3>What I Learned</h3>
+Linear search and binary search.<br>
+StreamReader,FileReader, StreamWriter in C#.<br>
+
+<h3>Task for the Day:</h3>
+Solve Assignment on searching problems<br>
+Solve Scenario-based Cost to cut wooden rod
+
+<h2><b>Day 25: 13/01/2026</b></h2><br>
+Topics: Time complexity and Space complexity<br>
+
+<h3>What I Learned</h3>
+Time complexity and Space complexity.<br>
+
+<h3>Task for the Day:</h3>
+Solve Assignment on Time Complexity and Space Complexity problems<br>
+Solve Scenario-based BookBuddy, Cinema time <br>
+
+
 
