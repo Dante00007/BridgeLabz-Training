@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\address-book\\address-book\\address-book.csproj": {}
+    "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\address-book\\address-book\\address-book.csproj": {}
   },
   "projects": {
-    "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\address-book\\address-book\\address-book.csproj": {
+    "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\address-book\\address-book\\address-book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\address-book\\address-book\\address-book.csproj",
+        "projectUniqueName": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\address-book\\address-book\\address-book.csproj",
         "projectName": "address-book",
-        "projectPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\address-book\\address-book\\address-book.csproj",
+        "projectPath": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\address-book\\address-book\\address-book.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\address-book\\address-book\\obj\\",
+        "outputPath": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\address-book\\address-book\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
