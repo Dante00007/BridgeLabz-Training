@@ -25,11 +25,14 @@ namespace address_book {
                     case 1:
                         contactManager.AddContact();
                         break;
-                    case 0:
-                        Console.WriteLine("...Exiting...");
+                    case 2:
+                        contactManager.EditContact();
                         break;
                     case 4:
                         contactManager.DisplayContacts();
+                        break;
+                    case 0:
+                        Console.WriteLine("...Exiting...");
                         break;
                     default:
                         Console.WriteLine("Invalid choice");

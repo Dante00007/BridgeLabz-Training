@@ -13,23 +13,32 @@ namespace address_book {
         public bool CheckParameters(string firstName, string lastName, string address, string city, string state, string phone, string email, string zip) {
             return firstName == null || lastName == null || address == null || city == null || state == null || phone == null || email == null || zip == null;
         }
+
+        private int Search(string firstName, string lastName) { 
+            for (int i = 0; i < Contacts.Length; i++) {
+                if (Contacts[i] != null && Contacts[i].FirstName.ToLower().Contains(firstName.ToLower()) && Contacts[i].LastName.ToLower( ).Contains(lastName.ToLower())) {
+                    return i;
+                }
+            }
+            return -1;
+        }
         public void AddContact() {
            Console.WriteLine("Enter the contact details");
-            Console.WriteLine("Enter the first name");
+            Console.Write("Enter the first name : ");
             string? firstName = Console.ReadLine();
-            Console.WriteLine("Enter the last name");
+            Console.Write("Enter the last name : ");
             string? lastName = Console.ReadLine();
-            Console.WriteLine("Enter the address");
+            Console.Write("Enter the address : ");
             string? address = Console.ReadLine();
-            Console.WriteLine("Enter the city");
+            Console.Write("Enter the city : ");
             string? phone = Console.ReadLine();
-            Console.WriteLine("Enter the state");
+            Console.Write("Enter the state : ");
             string? city = Console.ReadLine();
-            Console.WriteLine("Enter the zip");
+            Console.Write("Enter the zip : ");
             string? zip = Console.ReadLine();
-            Console.WriteLine("Enter the phone number");
+            Console.Write("Enter the phone number : ");
             string? state = Console.ReadLine();
-            Console.WriteLine("Enter the email");
+            Console.Write("Enter the email : ");
             string? email = Console.ReadLine();
 
             if (CheckParameters(firstName, lastName, address, city, state, phone, email, zip)) {
@@ -47,6 +56,49 @@ namespace address_book {
                 }
             }
             Console.WriteLine("Contact list is full");
+        }
+
+        public void EditContact() { 
+            Console.WriteLine("Enter the contact details to be edited");
+            Console.WriteLine("Enter the first name");
+            string? firstName = Console.ReadLine();
+            Console.WriteLine("Enter the last name");
+            string? lastName = Console.ReadLine();
+
+            int idx = Search(firstName, lastName);
+
+            if (idx == -1) {
+                Console.WriteLine("Contact not found");
+                return;
+            }
+            Console.WriteLine("Enter the address");
+            string? address = Console.ReadLine();
+            Console.WriteLine("Enter the city");
+            string? phone = Console.ReadLine();
+            Console.WriteLine("Enter the state");
+            string? city = Console.ReadLine();
+            Console.WriteLine("Enter the zip");
+            string? zip = Console.ReadLine();
+            Console.WriteLine("Enter the phone number");
+            string? state = Console.ReadLine();
+            Console.WriteLine("Enter the email");
+            string? email = Console.ReadLine();
+
+            if (CheckParameters(firstName, lastName, address, city, state, phone, email, zip)) {
+                Console.WriteLine("Invalid input, Every field is required");
+                return;
+            }
+            Contacts[idx].Address = address;
+            Contacts[idx].City = city;
+            Contacts[idx].State = state;
+            Contacts[idx].Phone = phone;
+            Contacts[idx].Zip = zip;
+            Contacts[idx].State = state;
+            Contacts[idx].Email = email;
+   
+            Console.WriteLine("Contact edited successfully");
+      
+           
         }
         public void DisplayContacts() {
             for (int i = 0; i < Contacts.Length; i++) {

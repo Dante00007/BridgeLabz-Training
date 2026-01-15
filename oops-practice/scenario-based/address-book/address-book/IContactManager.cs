@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace address_book {
-    internal interface IContactManager {
+    internal interface IContactManager { 
         void AddContact();
         void DisplayContacts();
+
+        void EditContact();
     }
 }
