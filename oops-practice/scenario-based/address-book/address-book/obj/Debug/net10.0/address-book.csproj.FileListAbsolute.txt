@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\bin\Debug\net10.0\address-book.exe
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\bin\Debug\net10.0\address-book.deps.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\bin\Debug\net10.0\address-book.runtimeconfig.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\bin\Debug\net10.0\address-book.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\bin\Debug\net10.0\address-book.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.AssemblyInfo.cs
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.sourcelink.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\refint\address-book.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\address-book.genruntimeconfig.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\address-book\address-book\obj\Debug\net10.0\ref\address-book.dll
