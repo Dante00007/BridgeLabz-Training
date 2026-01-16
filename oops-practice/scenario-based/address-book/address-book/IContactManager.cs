@@ -11,5 +11,6 @@ namespace address_book {
         void EditContact();
         void DeleteContact();
         void AddMultipleContacts();
+        bool CheckDuplication(string firstName, string lastName);
     }
 }

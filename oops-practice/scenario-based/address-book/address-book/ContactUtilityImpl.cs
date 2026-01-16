@@ -22,6 +22,13 @@ namespace address_book {
             }
             return -1;
         }
+        public bool CheckDuplication(string firstName, string lastName) { 
+            for (int i = 0; i < Contacts.Length; i++) {
+                if (Contacts[i] != null && Contacts[i].FirstName.ToLower().Contains(firstName.ToLower()) && Contacts[i].LastName.ToLower( ).Contains(lastName.ToLower())) 
+                    return true;
+            }
+            return false;
+        }
         public int AddContact() {
            Console.WriteLine("Enter the contact details");
             Console.Write("Enter the first name : ");
@@ -45,7 +52,10 @@ namespace address_book {
                 Console.WriteLine("Invalid input, Every field is required");
                 return 0; 
             }
-
+            if (CheckDuplication(firstName, lastName)) {
+                Console.WriteLine("Contact already exists with same name");
+                return 0;
+            }
             Contact contact = new Contact(firstName, lastName, address, city, state, phone, email, zip);
 
             for (int i = 0; i < Contacts.Length; i++) {
@@ -127,10 +137,15 @@ namespace address_book {
             }while(count > 0 && check == 1);
         }
         public void DisplayContacts() {
+            bool flag = false;
             for (int i = 0; i < Contacts.Length; i++) {
                 if (Contacts[i] != null) {
+                    flag = true;
                     Console.WriteLine(Contacts[i]);
                 }
+            }
+            if (!flag) {
+                Console.WriteLine("Contact list is empty");
             }
         }
     }
