@@ -19,7 +19,7 @@ namespace address_book {
                 Console.WriteLine("For exit enter -1 : ");
                 Console.WriteLine($"Enter the index of book you want to work with (0 to {n-1}): ");
                 choice = Convert.ToInt32(Console.ReadLine());
-                if (choice != -1) 
+                if (choice != -1 && choice < n && choice >= 0)
                     books[choice].OpenBook();
             }while( choice != -1 );
         }

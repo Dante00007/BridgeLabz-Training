@@ -38,13 +38,13 @@ namespace address_book {
             Console.Write("Enter the address : ");
             string? address = Console.ReadLine();
             Console.Write("Enter the city : ");
-            string? phone = Console.ReadLine();
-            Console.Write("Enter the state : ");
             string? city = Console.ReadLine();
+            Console.Write("Enter the state : ");
+            string? state = Console.ReadLine();
             Console.Write("Enter the zip : ");
             string? zip = Console.ReadLine();
             Console.Write("Enter the phone number : ");
-            string? state = Console.ReadLine();
+            string? phone = Console.ReadLine();
             Console.Write("Enter the email : ");
             string? email = Console.ReadLine();
 
@@ -136,12 +136,27 @@ namespace address_book {
                 count--;
             }while(count > 0 && check == 1);
         }
+        public void SearchByCityOrState() { 
+            Console.WriteLine("Enter the city or state you want to search");
+            string? search = Console.ReadLine();
+            bool flag = false;
+            for (int i = 0; i < Contacts.Length; i++) {
+                if (Contacts[i] != null && (Contacts[i].City.ToLower().Contains(search.ToLower()) || Contacts[i].State.ToLower().Contains(search.ToLower()))) {
+                    flag = true;
+                    Console.WriteLine(Contacts[i]);
+                }
+            }
+            if (!flag) {
+                Console.WriteLine("Contact not found");
+            }
+        }
         public void DisplayContacts() {
             bool flag = false;
             for (int i = 0; i < Contacts.Length; i++) {
                 if (Contacts[i] != null) {
                     flag = true;
-                    Console.WriteLine(Contacts[i]);
+                    Console.WriteLine(Contacts[i]+"\n");
+
                 }
             }
             if (!flag) {

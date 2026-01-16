@@ -17,6 +17,7 @@ namespace address_book {
                 Console.WriteLine("3. Delete contact");
                 Console.WriteLine("4. Display contact");
                 Console.WriteLine("5. Add Multiple contact");
+                Console.WriteLine("6. Search contact by city and state");
                 Console.WriteLine("0. Exit");
 
                 Console.Write("Enter your choice :");
@@ -37,6 +38,9 @@ namespace address_book {
                         break;
                     case 5:
                         contactManager.AddMultipleContacts();
+                        break;
+                    case 6:
+                        contactManager.SearchByCityOrState();
                         break;
                     case 0:
                         Console.WriteLine("...Exiting...");
