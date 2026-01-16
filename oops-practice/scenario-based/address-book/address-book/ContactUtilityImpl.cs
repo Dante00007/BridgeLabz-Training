@@ -22,7 +22,7 @@ namespace address_book {
             }
             return -1;
         }
-        public void AddContact() {
+        public int AddContact() {
            Console.WriteLine("Enter the contact details");
             Console.Write("Enter the first name : ");
             string? firstName = Console.ReadLine();
@@ -43,7 +43,7 @@ namespace address_book {
 
             if (CheckParameters(firstName, lastName, address, city, state, phone, email, zip)) {
                 Console.WriteLine("Invalid input, Every field is required");
-                return;
+                return 0; 
             }
 
             Contact contact = new Contact(firstName, lastName, address, city, state, phone, email, zip);
@@ -52,10 +52,11 @@ namespace address_book {
                 if (Contacts[i] == null) {
                     Contacts[i] = contact;
                     Console.WriteLine("Contact added successfully");
-                    return;
+                    return 1;
                 }
             }
             Console.WriteLine("Contact list is full");
+            return 0;
         }
 
         public void EditContact() { 
@@ -114,6 +115,16 @@ namespace address_book {
             }
             Contacts[idx] = null;
             Console.WriteLine("Contact deleted successfully");
+        }
+        public void AddMultipleContacts() {
+            Console.WriteLine("Enter the number of contacts to be added");
+            int count = Convert.ToInt32(Console.ReadLine());
+
+            int check = -1;
+            do {
+                AddContact();
+                count--;
+            }while(count > 0 && check == 1);
         }
         public void DisplayContacts() {
             for (int i = 0; i < Contacts.Length; i++) {

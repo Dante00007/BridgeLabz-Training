@@ -7,8 +7,9 @@ namespace address_book {
        
         void DisplayContacts();
 
-        void AddContact();
+        int AddContact();
         void EditContact();
         void DeleteContact();
+        void AddMultipleContacts();
     }
 }
