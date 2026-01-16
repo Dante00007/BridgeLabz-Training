@@ -100,6 +100,21 @@ namespace address_book {
       
            
         }
+
+        public void DeleteContact() {
+            Console.WriteLine("Enter the first name");
+            string? firstName = Console.ReadLine();
+            Console.WriteLine("Enter the last name");
+            string? lastName = Console.ReadLine();
+            int idx = Search(firstName, lastName);
+
+            if (idx == -1) {
+                Console.WriteLine("Contact not found");
+                return;
+            }
+            Contacts[idx] = null;
+            Console.WriteLine("Contact deleted successfully");
+        }
         public void DisplayContacts() {
             for (int i = 0; i < Contacts.Length; i++) {
                 if (Contacts[i] != null) {

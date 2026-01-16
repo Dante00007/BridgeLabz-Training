@@ -28,6 +28,9 @@ namespace address_book {
                     case 2:
                         contactManager.EditContact();
                         break;
+                    case 3:
+                        contactManager.DeleteContact();
+                        break;
                     case 4:
                         contactManager.DisplayContacts();
                         break;

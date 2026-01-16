@@ -4,9 +4,11 @@ using System.Text;
 
 namespace address_book {
     internal interface IContactManager { 
-        void AddContact();
+       
         void DisplayContacts();
 
+        void AddContact();
         void EditContact();
+        void DeleteContact();
     }
 }
