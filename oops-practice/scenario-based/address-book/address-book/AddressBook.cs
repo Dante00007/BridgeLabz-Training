@@ -5,7 +5,8 @@ using System.Text;
 
 namespace address_book {
     internal class AddressBook {
-        static void Main() {
+        public void OpenBook() {
+            Console.WriteLine("Welcome to Address Book Program");
             AddressBookMenu ab = new AddressBookMenu();
             ab.Menu();
         }
