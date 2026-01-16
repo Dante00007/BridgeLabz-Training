@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\bin\Debug\net10.0\TrafficManager.exe
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\bin\Debug\net10.0\TrafficManager.deps.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\bin\Debug\net10.0\TrafficManager.runtimeconfig.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\bin\Debug\net10.0\TrafficManager.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\bin\Debug\net10.0\TrafficManager.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfo.cs
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.sourcelink.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\refint\TrafficManager.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\TrafficManager.genruntimeconfig.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\TrafficManager\TrafficManager\obj\Debug\net10.0\ref\TrafficManager.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\trafficmanagermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\trafficmanagermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\trafficmanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\trafficmanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\roundabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\roundabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\trafficmanagerutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\trafficmanagerutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\itrafficmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\itrafficmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\trafficmanager\\trafficmanager\\vehiclenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117FCB3-A863-43F7-85AE-6660703F262A}|TrafficManager\\TrafficManager.csproj|solutionrelative:trafficmanager\\vehiclenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafficManagerMain.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerMain.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\TrafficManagerMain.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerMain.cs",
+              "RelativeToolTip": "TrafficManager\\TrafficManagerMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:36:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrafficManagerMenu.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerMenu.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\TrafficManagerMenu.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerMenu.cs",
+              "RelativeToolTip": "TrafficManager\\TrafficManagerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:15:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITrafficManager.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\ITrafficManager.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\ITrafficManager.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\ITrafficManager.cs",
+              "RelativeToolTip": "TrafficManager\\ITrafficManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:23:59.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrafficManagerUtilityImpl.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerUtilityImpl.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\TrafficManagerUtilityImpl.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\TrafficManagerUtilityImpl.cs",
+              "RelativeToolTip": "TrafficManager\\TrafficManagerUtilityImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:23:32.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\Queue.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\Queue.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\Queue.cs",
+              "RelativeToolTip": "TrafficManager\\Queue.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:53:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundAbout.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\RoundAbout.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\RoundAbout.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\RoundAbout.cs",
+              "RelativeToolTip": "TrafficManager\\RoundAbout.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:16:21.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleNode.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\VehicleNode.cs",
+              "RelativeDocumentMoniker": "TrafficManager\\VehicleNode.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\TrafficManager\\TrafficManager\\VehicleNode.cs",
+              "RelativeToolTip": "TrafficManager\\VehicleNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:17:23.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
