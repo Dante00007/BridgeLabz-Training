@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\browsermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\browsermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\browsermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\browsermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\browsertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\browsertab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|d:\\bridgelabz-training\\oops-practice\\scenario-based\\browserbuddy\\browserbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEB9E0-9B16-446B-A992-CE9BE775895E}|BrowserBuddy\\BrowserBuddy.csproj|solutionrelative:browserbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowserMain.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserMain.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\BrowserMain.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserMain.cs",
+              "RelativeToolTip": "BrowserBuddy\\BrowserMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:52:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBrowser.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\IBrowser.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\IBrowser.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\IBrowser.cs",
+              "RelativeToolTip": "BrowserBuddy\\IBrowser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:28:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowserMenu.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserMenu.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\BrowserMenu.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserMenu.cs",
+              "RelativeToolTip": "BrowserBuddy\\BrowserMenu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:23:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Browser.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Browser.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\Browser.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Browser.cs",
+              "RelativeToolTip": "BrowserBuddy\\Browser.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:02:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrowserTab.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserTab.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\BrowserTab.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\BrowserTab.cs",
+              "RelativeToolTip": "BrowserBuddy\\BrowserTab.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:36:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Stack.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\Stack.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Stack.cs",
+              "RelativeToolTip": "BrowserBuddy\\Stack.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:22:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Program.cs",
+              "RelativeDocumentMoniker": "BrowserBuddy\\Program.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\oops-practice\\scenario-based\\BrowserBuddy\\BrowserBuddy\\Program.cs",
+              "RelativeToolTip": "BrowserBuddy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:21:46.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
