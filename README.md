@@ -464,4 +464,45 @@ Solve Scenario-based BookBuddy, Cinema time <br>
 <hr>
 <hr>
 
+<h2><b>Day 26 </b></h2><br>
+Date: 14/01/2026<br>
+Topics: Scenario based problems<br>
 
+<h3>Task for the Day:</h3>
+Solved Address Book Management System<br>
+
+<h3>What's Next</h3>
+More Scenario based problems<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 27 </b></h2><br>
+Date: 15/01/2026<br>
+Topics: More Scenario based problems<br>
+
+<h3>Task for the Day:</h3>
+BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)<br>
+Story: Neha is working on a custom browser. Each open tab maintains its browsing history with<br>
+"Back" and "Forward" operations. She uses a Doubly Linked List for history and a Stack to<br>
+hold closed tabs for reopening.<br> 
+
+<h3>What's Next</h3>
+More Scenario based problems<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 28 </b></h2><br>
+Date: 16/01/2026<br>
+Topics: More Scenario based problems<br>
+
+<h3>Task for the Day:</h3>
+Solved TrafficManager -Roundabout Vehicle Flow Story:<br>
+A smart city roundabout allows vehicles to enter and exit dynamically.<br>
+Each vehicle is a node in a Circular Linked List.<br>
+A Queue manages vehicles waiting to enter.<br>
+BookShelf – Library Organiz Story: <br>
+In a library system, books are arranged based on genre and author.<br>
+A HashMap maps genre → list of books (LinkedList). <br>
+Each list is dynamically updated when books are borrowed or returned.<br>
