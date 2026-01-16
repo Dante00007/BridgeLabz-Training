@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookShelfMain.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMain.cs",
+              "RelativeDocumentMoniker": "BookSelf\\BookShelfMain.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMain.cs",
+              "RelativeToolTip": "BookSelf\\BookShelfMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:59:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookShelfMenu.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMenu.cs",
+              "RelativeDocumentMoniker": "BookSelf\\BookShelfMenu.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMenu.cs",
+              "RelativeToolTip": "BookSelf\\BookShelfMenu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:00:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Manager.cs",
+              "RelativeDocumentMoniker": "BookSelf\\Manager.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Manager.cs",
+              "RelativeToolTip": "BookSelf\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:06:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreMap.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\GenreMap.cs",
+              "RelativeDocumentMoniker": "BookSelf\\GenreMap.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\GenreMap.cs",
+              "RelativeToolTip": "BookSelf\\GenreMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:31:42.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookList.cs",
+              "RelativeDocumentMoniker": "BookSelf\\BookList.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookList.cs",
+              "RelativeToolTip": "BookSelf\\BookList.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:44:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookNode.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookNode.cs",
+              "RelativeDocumentMoniker": "BookSelf\\BookNode.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookNode.cs",
+              "RelativeToolTip": "BookSelf\\BookNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:40:44.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Program.cs",
+              "RelativeDocumentMoniker": "BookSelf\\Program.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Program.cs",
+              "RelativeToolTip": "BookSelf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:13:18.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
