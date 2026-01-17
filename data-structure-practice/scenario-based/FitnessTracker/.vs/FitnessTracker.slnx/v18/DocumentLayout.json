@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\fitnesstracker\\fitnesstracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\fitnesstracker\\fitnesstracker\\fitnessappmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\fitnessappmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\fitnesstracker\\fitnesstracker\\fitnessapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\fitnessapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\fitnesstracker\\fitnesstracker\\fitnessappmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\fitnessappmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\fitnesstracker\\fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBEB84B-18BC-4648-B18A-177538FCA697}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitnessAppMain.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessAppMain.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\FitnessAppMain.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessAppMain.cs",
+              "RelativeToolTip": "FitnessTracker\\FitnessAppMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:55:10.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessApp.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessApp.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\FitnessApp.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessApp.cs",
+              "RelativeToolTip": "FitnessTracker\\FitnessApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:52:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FitnessAppManager.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessAppManager.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\FitnessAppManager.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\FitnessAppManager.cs",
+              "RelativeToolTip": "FitnessTracker\\FitnessAppManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:41:56.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\User.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\User.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\User.cs",
+              "RelativeToolTip": "FitnessTracker\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:38:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Program.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\FitnessTracker\\FitnessTracker\\Program.cs",
+              "RelativeToolTip": "FitnessTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:37:05.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
