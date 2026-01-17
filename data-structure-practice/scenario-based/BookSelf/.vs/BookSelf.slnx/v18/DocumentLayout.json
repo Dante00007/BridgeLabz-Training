@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\genremap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\bookshelfmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5993FA-54E1-4093-B906-FDB27C3502FF}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\booknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|d:\\bridgelabz-training\\data-structure-practice\\scenario-based\\bookself\\bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38B7B8D-0802-2BE8-762F-B6C144B98D89}|BookSelf\\BookSelf.csproj|solutionrelative:bookself\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +46,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookShelfMain.cs",
               "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMain.cs",
               "RelativeDocumentMoniker": "BookSelf\\BookShelfMain.cs",
               "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMain.cs",
               "RelativeToolTip": "BookSelf\\BookShelfMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:59:18.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BookShelfMenu.cs",
               "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMenu.cs",
               "RelativeDocumentMoniker": "BookSelf\\BookShelfMenu.cs",
               "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookShelfMenu.cs",
               "RelativeToolTip": "BookSelf\\BookShelfMenu.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T11:00:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\IManager.cs",
+              "RelativeDocumentMoniker": "BookSelf\\IManager.cs",
+              "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\IManager.cs",
+              "RelativeToolTip": "BookSelf\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:22:10.861Z",
               "EditorCaption": ""
             },
             {
@@ -74,7 +91,7 @@
               "RelativeDocumentMoniker": "BookSelf\\Manager.cs",
               "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Manager.cs",
               "RelativeToolTip": "BookSelf\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T11:06:04.032Z",
               "EditorCaption": ""
@@ -87,27 +104,27 @@
               "RelativeDocumentMoniker": "BookSelf\\GenreMap.cs",
               "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\GenreMap.cs",
               "RelativeToolTip": "BookSelf\\GenreMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:31:42.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BookList.cs",
               "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookList.cs",
               "RelativeDocumentMoniker": "BookSelf\\BookList.cs",
               "ToolTip": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookList.cs",
               "RelativeToolTip": "BookSelf\\BookList.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:44:32.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "BookNode.cs",
               "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\BookNode.cs",
               "RelativeDocumentMoniker": "BookSelf\\BookNode.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BridgeLabz-Training\\data-structure-practice\\scenario-based\\BookSelf\\BookSelf\\Program.cs",
               "RelativeDocumentMoniker": "BookSelf\\Program.cs",
@@ -128,8 +145,7 @@
               "RelativeToolTip": "BookSelf\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:13:18.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T10:13:18.325Z"
             }
           ]
         }

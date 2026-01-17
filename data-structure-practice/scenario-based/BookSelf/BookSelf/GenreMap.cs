@@ -13,43 +13,57 @@ namespace BookSelf {
 
         private int GetIndex(string key) {
             for (int i = 0; i < keys.Length; i++) { 
-                if (keys[i].Equals(key)) {
+                if (keys[i] != null && keys[i].Equals(key)) {
                     return i;
                 }
             }
             return -1;
         }
 
-        public void AddBook(string key, string book) {
+        public void Add(string key, string bookName) {
             string tempKey = key.Trim().ToLower();
 
             int idx = GetIndex(tempKey);
             
-            BookNode bookNode = new BookNode(book);
+
             if (idx == -1) {
                 for (int i = 0; i < keys.Length; i++) {
                     if (keys[i] == null) {
                         keys[i] = tempKey;
+
                         BookList bookList = new BookList();
-                        bookList.Addbook(bookNode);
+                        bookList.AddbookNode(bookName);
                         values[i] = bookList;
+
+                        Console.WriteLine("Book added successfully");
                         break;
                     }
                 }
             }
             else {
-                values[idx].Addbook(bookNode);
+                values[idx].AddbookNode(bookName);
             }
         }
 
-        public BookList Get(string key) {
+        public void Get(string key) {
             string tempKey = key.Trim().ToLower();
             int idx = GetIndex(tempKey);
             if (idx == -1) {
                 Console.WriteLine("Genre not found");
-                return null;
+                return;
             }
-            return values[idx];
+            Console.WriteLine("Genre : " + key);
+            values[idx].DisplayBooksNode();
+        }
+
+        public void Remove(string key,string bookName) {
+            string tempKey = key.Trim().ToLower();
+            int idx = GetIndex(tempKey);
+            if (idx == -1) {
+                Console.WriteLine("Genre not found");
+                return;
+            }
+            values[idx].RemoveBookNode(bookName);
         }
     }
 }

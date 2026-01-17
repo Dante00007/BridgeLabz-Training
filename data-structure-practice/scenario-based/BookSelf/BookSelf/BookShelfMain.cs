@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BookSelf {
     internal class BookShelfMain {
-        public BookShelfMain() { 
+        static void Main(string[] args) {
             BookShelfMenu menu = new BookShelfMenu();
             menu.Menu();
         }

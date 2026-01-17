@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.AssemblyInfo.cs
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.sourcelink.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\bin\Debug\net10.0\BookSelf.exe
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\bin\Debug\net10.0\BookSelf.deps.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\bin\Debug\net10.0\BookSelf.runtimeconfig.json
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\bin\Debug\net10.0\BookSelf.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\bin\Debug\net10.0\BookSelf.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\refint\BookSelf.dll
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.pdb
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\BookSelf.genruntimeconfig.cache
+D:\BridgeLabz-Training\data-structure-practice\scenario-based\BookSelf\BookSelf\obj\Debug\net10.0\ref\BookSelf.dll
