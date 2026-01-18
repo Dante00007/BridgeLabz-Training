@@ -506,3 +506,39 @@ BookShelf – Library Organiz Story: <br>
 In a library system, books are arranged based on genre and author.<br>
 A HashMap maps genre → list of books (LinkedList). <br>
 Each list is dynamically updated when books are borrowed or returned.<br>
+
+<h3>What's Next</h3>
+More Scenario based problems<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 29 </b></h2><br>
+Date: 17/01/2026<br>
+Topics: More Scenario based problems<br>
+
+<h3>Task for the Day:</h3>
+Solved – Ecommerce Website, User wnts to see top discounted prduct (Used Qucik Sort)<br>
+Solved - StepCounter (Used Bubble Sort)<br>
+
+<h3>What's Next</h3>
+Leetcode problems<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 30 </b></h2><br>
+Date: 18/01/2026<br>
+Topics: Leetcode problems<br>
+
+<h3>Task for the Day:</h3>
+Solved 2 leetcode problems<br>
+Leetcode-5 Longest Palindromic Substring<br>
+Leetcode-647 Number of Palindromic Substrings in a string<br>
+Pasha andd string codeforces problem<br>
+
+<h3>What's Next</h3>
+C# collection<br>
+
+<hr>
+<hr>
