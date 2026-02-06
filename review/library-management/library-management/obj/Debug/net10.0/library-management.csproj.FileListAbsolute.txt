@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\bin\Debug\net10.0\library-management.exe
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\bin\Debug\net10.0\library-management.deps.json
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\bin\Debug\net10.0\library-management.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\bin\Debug\net10.0\library-management.dll
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\bin\Debug\net10.0\library-management.pdb
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.dll
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\refint\library-management.dll
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.pdb
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\library-management.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\review\library-management\library-management\obj\Debug\net10.0\ref\library-management.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|c:\\users\\hp\\onedrive\\desktop\\review\\library-management\\library-management\\libraray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|solutionrelative:library-management\\libraray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|c:\\users\\hp\\onedrive\\desktop\\review\\library-management\\library-management\\libraryutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|solutionrelative:library-management\\libraryutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|c:\\users\\hp\\onedrive\\desktop\\review\\library-management\\library-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|solutionrelative:library-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|c:\\users\\hp\\onedrive\\desktop\\review\\library-management\\library-management\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|solutionrelative:library-management\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|c:\\users\\hp\\onedrive\\desktop\\review\\library-management\\library-management\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7655FE8-D508-53EF-C0D2-8C617B5D2753}|library-management\\library-management.csproj|solutionrelative:library-management\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libraray.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Libraray.cs",
+              "RelativeDocumentMoniker": "library-management\\Libraray.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Libraray.cs",
+              "RelativeToolTip": "library-management\\Libraray.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:36:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryUtilityImpl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\LibraryUtilityImpl.cs",
+              "RelativeDocumentMoniker": "library-management\\LibraryUtilityImpl.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\LibraryUtilityImpl.cs",
+              "RelativeToolTip": "library-management\\LibraryUtilityImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:16:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Book.cs",
+              "RelativeDocumentMoniker": "library-management\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Book.cs",
+              "RelativeToolTip": "library-management\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:12:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibrary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\ILibrary.cs",
+              "RelativeDocumentMoniker": "library-management\\ILibrary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\ILibrary.cs",
+              "RelativeToolTip": "library-management\\ILibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:08:53.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Program.cs",
+              "RelativeDocumentMoniker": "library-management\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\review\\library-management\\library-management\\Program.cs",
+              "RelativeToolTip": "library-management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:08:34.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
