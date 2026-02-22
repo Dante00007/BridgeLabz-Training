@@ -542,3 +542,264 @@ C# collection<br>
 
 <hr>
 <hr>
+
+<h2><b>Day 31 </b></h2><br>
+Date: 19/01/2026<br>
+Topics: C# Generics<br>
+
+<h3>Task for the Day:</h3>
+Solved 2 leetcode problems<br>
+ Subarray Sum Equals K<br>
+Subarray Product Less Than K<br>
+
+
+<h3>What's Next</h3>
+C# collection<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 32 </b></h2><br>
+Date: 20/01/2026<br>
+Topics: C# collection<br>
+
+<h3>Task for the Day:</h3>
+Solved 2 leetcode problems<br>
+Subarray Sum Equals K<br>
+Subarray Product Less Than K<br>
+
+
+<h3>What's Next</h3>
+C# Streams<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 33 </b></h2><br>
+Date: 21/01/2026<br>
+Topics: C# Streams<br>
+
+<h3>Task for the Day:</h3>
+Learn About Streams in C#<br>
+StreamReader and StreamWriter<br>
+Solved 2 leetcode problems<br>
+
+<h3>What's Next</h3>
+C# Continue With Streams<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 34 </b></h2><br>
+Date: 22/01/2026<br>
+Topics: C# Exceptions<br>
+
+<h3>Task for the Day:</h3>
+Learn About Exceptions in C#<br>
+Try-Catch-Finally Block<br>
+Custom Exceptions<br>
+Solved 2 leetcode problems<br>
+
+<h3>What's Next</h3>
+C# Regex<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 35 </b></h2><br>
+Date: 23/01/2026<br>
+Topics: C# Regex<br>
+
+<h3>Task for the Day:</h3>
+Learn About Regex in C#<br>
+
+<h3>What's Next</h3>
+C# Continue With Regex<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 36 </b></h2><br>
+Date: 27/01/2026<br>
+Topics: C# Continue With Regex<br>
+
+<h3>Task for the Day:</h3>
+Learn About Regex in C#<br>
+
+<h3>What's Next</h3>
+C# Annotations<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 37 </b></h2><br>
+Date: 28/01/2026<br>
+Topics: C# Annotations<br>
+
+<h3>Task for the Day:</h3>
+Learn About Annotations in C#<br>
+
+<h3>What's Next</h3>
+C# Continue With Annotations<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 38 </b></h2><br>
+Date: 29/01/2026<br>
+Topics: C# Continue With Annotations<br>
+
+<h3>Task for the Day:</h3>
+Learn More About Annotations in C#<br>
+
+<h3>What's Next</h3>
+C# Reflection<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 39 </b></h2><br>
+Date: 30/01/2026<br>
+Topics: C# Reflection<br>
+
+<h3>Task for the Day:</h3>
+Learn About Reflection in C#<br>
+
+<h3>What's Next</h3>
+C# Continue With Reflection<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 40 </b></h2><br>
+Date: 31/01/2026<br>
+Topics: C# Continue With Reflection<br>
+
+<h3>Task for the Day:</h3>
+Learn More About Reflection in C#<br>
+
+<h3>What's Next</h3>
+MSTEST<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 41 </b></h2><br>
+Date: 02/02/2026<br>
+Topics: MSTEST<br>
+
+<h3>Task for the Day:</h3>
+Learn Some Attributes in MSTEST<br>
+How to use MSTEST<br>
+How to Integrate it with Our project<br>
+
+<h3>What's Next</h3>
+CSV Data handling<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 42 </b></h2><br>
+Date: 04/02/2026<br>
+Topics: CSV Data handling<br>
+
+<h3>Task for the Day:</h3>
+Learn About CSV Data handling in C#<br>
+
+<h3>What's Next</h3>
+Json Data handling<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 43 </b></h2><br>
+Date: 05/02/2026<br>
+Topics: Json Data handling<br>
+
+<h3>Task for the Day:</h3>
+Learn About Json Data handling in C#<br>
+
+<h3>What's Next</h3>
+Design Principles<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 44 </b></h2><br>
+Date: 06/02/2026<br>
+Topics: Design Principles<br>
+
+<h3>Task for the Day:</h3>
+Learn About SOLID Principles in C#<br>
+S- Single Responsibility Principle<br>
+O- Open-Closed Principle<br>
+L- Liskov Substitution Principle<br>
+I- Interface Segregation Principle<br>
+D- Dependency Inversion Principle<br>
+
+<h3>What's Next</h3>
+Design Patterns<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 45 </b></h2><br>
+Date: 07/02/2026<br>
+Topics: Design Patterns<br>
+
+<h3>Task for the Day:</h3>
+Learn About Design Patterns in C#<br>
+Singleton Pattern<br>
+Factory Pattern<br>
+Abstract Factory Pattern<br>
+
+<h3>What's Next</h3>
+MSSQL<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 46 </b></h2><br>
+Date: 09/02/2026<br>
+Topics: MSSQL<br>
+
+<h3>Task for the Day:</h3>
+Learn About MSSQL in C#<br>
+Learn About Entity Framework Core in C#<br>
+Learn RDBMS<br>
+Learn DCL<br>
+Learn DML<br>
+
+<h3>What's Next</h3>
+Adio.net<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 47 </b></h2><br>
+Date: 11/02/2026<br>
+Topics: Adio.net<br>
+
+<h3>Task for the Day:</h3>
+Learn About Adio.net in C#<br>
+
+<h3>What's Next</h3>
+C# Continue With Adio.net<br>
+
+<hr>
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
