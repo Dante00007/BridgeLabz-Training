@@ -789,6 +789,159 @@ C# Continue With Adio.net<br>
 <hr>
 <hr>
 
+<h2><b>Day 48 </b></h2><br>
+Date: 12/02/2026<br>
+Topics: Healthclinic<br>
+
+Continue development of Health Clinic System<br>
+Strengthen practical understanding of ADO.NET<br>
+Improve database handling and query execution<br>
+Health Clinic – Continued Integration<br>
+
+<h3>What's Next</h3>
+Health Clinic – Continued Integration
+
+<hr>
+<hr>
+
+<h2><b>Day 49 </b></h2><br>
+Date: 13/02/2026<br>
+
+Learning Goals<br>
+Revise previously learned C# concepts
+Strengthen understanding of OOP & Data Structures
+Revisit SQL and ADO.NET integration
+Improve overall clarity before moving ahead
+
+Revision Topics
+C# & OOP<br>
+Encapsulation, Inheritance, Polymorphism<br>
+Constructors & method overloading<br>
+
+<h3> What's Next</h3>
+Multithreading<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 50 </b></h2><br>
+Date: 16/02/2026<br>
+Topics: Multithreading<br>
+
+<h3>Task for the Day:</h3>
+Learn About Multithreading in C#<br>
+Manual Thread Creation<br>
+Thread Priority<br>
+Thread Lifecycle<br>
+Thread Synchronization<br>
+
+<h3>What's Next</h3>
+C# Continue With Multithreading<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 51 </b></h2><br>
+Date: 17/02/2026<br>
+Topics: C# Continue With Multithreading<br>
+
+<h3>Task for the Day:</h3>
+Learn More About Multithreading in C#<br>
+Learn About ThreadPool<br>
+Learn About Task Parallel Library<br>
+
+<h3>What's Next</h3>
+Parallelism and Multithreading<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 52 </b></h2><br>
+Date: 18/02/2026<br>
+Topics: C# Continue With Multithreading<br>
+
+Learn About Parallelism<br>
+Learn About Parallel Programming<br>
+Learn About Parallelism Basics, Parallel For, Parallel Linq, Parallel Query,<br>
+
+<h3>What's Next</h3>
+Locks in thread<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 53 </b></h2><br>
+Date: 19/02/2026<br>
+Topics: Locks in thread<br>
+
+<h3>Task for the Day:</h3>
+Learn About Locks in Thread in C#<br>
+How to Safely Work with share resources<br>
+lock keyword<br>
+
+<h3>What's Next</h3>
+Concurrent Collections in C#<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 54 </b></h2><br>
+Date: 20/02/2026<br>
+Topics: Concurrent Collections in C#<br>
+
+<h3>Task for the Day:</h3>
+Learn About Concurrent Collections in C#<br>
+Concurrent Queue<br>
+Concurrent Stack<br>
+Concurrent Dictionary<br>
+
+<h3>What's Next</h3>
+Work on QuantityMeasurement Application<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 55 </b></h2><br>
+Date: 21/02/2026<br>
+Topics: Work on QuantityMeasurement Application<br>
+
+<h3>Task for the Day:</h3>
+Implement UC1 of QuantityMeasurement Application<br>
+Implement UC2 of QuantityMeasurement Application<br>
+Setup the enviorment<br>
+Created a inner Feet Class<br>
+Created a inner Inch Class<br>
+
+<h3>What's Next</h3>
+Continue Working on QuantityMeasurement Application<br>
+
+<hr>
+<hr>
+
+<h2><b>Day 56 </b></h2><br>
+Date: 23/02/2026<br>
+Topics: Continue Working on QuantityMeasurement Application<br>
+
+<h3>Task for the Day:</h3>
+Implemented UC3 of QuantityMeasurement Application<br>
+Implemented UC4 of QuantityMeasurement Application<br>
+
+In UC3, A generic QuantityLength class is needed<br>
+Refactor the whole UC1,UC2 code<br>
+
+In UC4, A Yard Unit is needed<br>
+In Unit Enum, A yard unit is added<br>
+All the test case for Yard is also added<br>
+
+<h3>What's Next</h3>
+Continue Working on QuantityMeasurement Application<br>
+
+<hr>
+<hr>
+
+
+
+
 
 
 
